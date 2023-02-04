@@ -1,8 +1,14 @@
 # Laptop-Price-Predictor
-In this project i have analyzed the Covid-19 Dataset
+It's a Machine Learning Project which can predict about the price of the Laptop when you provide your required configuration. The data set which I used for this project is available over kaggle & here's the link --> https://www.kaggle.com/datasets/muhammetvarl/laptop-price You can download this dataSet and apply EDA and feature engineering according to your knowledge else I did the most best which we can get from this small dataSet.
+
+The Prediction I am getting is also overall good & justable. 
 ![Lpatop-price-flowchart](https://user-images.githubusercontent.com/89767722/215086643-2c435dd1-5e5e-4a3b-a3ec-553467bf0f57.jpg)
 
 
+This project mainly consists of web application that integrated by a machine learning model which will be able to make a prediction of laptops’ prices based on their key features(Brand, ram, PPI, Typename etc). Web application will facilitate people in choosing the components they need , and they could obtain an idea about what will be the expected price of the laptop they want.
 
 
+This is the User Interface of the End-to-End project where you can specify the features for price prediction.
 ![User_Interface](https://user-images.githubusercontent.com/89767722/215086690-fa4d7720-aa7b-447b-b094-e1b16b214b96.JPG)
+
+You just need to have a good knowledge of python and machine learning if you want to do this project you can easily did this.
