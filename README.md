@@ -13,10 +13,17 @@ This is the User Interface of the End-to-End project where you can specify the f
 
 You just need to have a good knowledge of python and machine learning if you want to do this project you can easily do this.Below are the steps to execute the project by your own
 1.Download the Datasets and the files from from this Github repository .
+
 2.Store all the related files in the same location.
+
 3.Open Jupyter notebook and load the Laptop_Price_Predictor.ipynb file and execute all the commands.
+
 4.Open Pycharm and execute the app.py file.
+
 5.Go to the terminal tab and execte the command streamlit run app.py
+
 6.A new tab will be opened on the browser.
+
 7.Input the desired features and click on recommend button.
-8.The price will be dispalyed.
+
+8.The predicted price will be dispalyed.
