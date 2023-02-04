@@ -12,6 +12,7 @@ This is the User Interface of the End-to-End project where you can specify the f
 ![User_Interface](https://user-images.githubusercontent.com/89767722/215086690-fa4d7720-aa7b-447b-b094-e1b16b214b96.JPG)
 
 You just need to have a good knowledge of python and machine learning if you want to do this project you can easily do this.Below are the steps to execute the project by your own
+
 1.Download the Datasets and the files from from this Github repository .
 
 2.Store all the related files in the same location.
