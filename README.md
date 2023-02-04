@@ -1,7 +1,7 @@
 # Laptop-Price-Predictor
-It's a Machine Learning Project which can predict about the price of the Laptop when you provide your required configuration. The data set which I used for this project is available over kaggle & here's the link --> https://www.kaggle.com/datasets/muhammetvarl/laptop-price You can download this dataSet and apply EDA and feature engineering according to your knowledge else I did the most best which we can get from this small dataSet.
+It's a Machine Learning Project which can predict about the price of the Laptop when you provide your required configuration. The data set which I used for this project is available over kaggle & here's the link --> https://www.kaggle.com/datasets/muhammetvarl/laptop-price You can download this dataSet and apply EDA and feature engineering according to your knowledge else I did the most best which we can get from this small dataset.The Prediction I am getting is also overall good & justable. 
 
-The Prediction I am getting is also overall good & justable. 
+Below image shows the workflow of the prediction model
 ![Lpatop-price-flowchart](https://user-images.githubusercontent.com/89767722/215086643-2c435dd1-5e5e-4a3b-a3ec-553467bf0f57.jpg)
 
 
